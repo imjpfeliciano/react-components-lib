@@ -1,7 +1,13 @@
 {
-  "name": "react-components-lib",
+  "name": "@imjpfeliciano/react-components-lib",
   "version": "0.1.0",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imjpfeliciano/react-components-lib"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/imjpfeliciano"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

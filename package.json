@@ -6,7 +6,7 @@
     "url": "https://github.com/imjpfeliciano/react-components-lib"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/imjpfeliciano"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

@@ -13,14 +13,11 @@
     "forceConsistentCasingInFileNames": true,
     "declaration": true,
     "declarationDir": "types",
-    "emitDeclarationOnly": true
+    "emitDeclarationOnly": true,
+    "rootDir": "src",
   },
   "include": ["src"],
   "exclude": [
-    "node_modules",
-    "dist",
-    "types",
-    "build",
     "src/**/**/*.test.ts",
     "src/**/**/*.test.tsx",
     "src/**/**/*.stories.tsx",

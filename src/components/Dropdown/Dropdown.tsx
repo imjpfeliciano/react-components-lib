@@ -5,7 +5,7 @@ import { DropdownProps } from "./Dropdown.types"
 const Dropdown: React.FC<DropdownProps> = ({ label }) => {
   return (
     <DropdownContainer>
-      {label}
+      {label} test
     </DropdownContainer>
   )
 };
